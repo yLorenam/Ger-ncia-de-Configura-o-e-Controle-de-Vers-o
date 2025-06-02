@@ -1,1 +1,1 @@
-# Ger-ncia-de-Configura-o-e-Controle-de-Vers-o
+# erência de Configuração e Controle de Versão: Entrega contínua
