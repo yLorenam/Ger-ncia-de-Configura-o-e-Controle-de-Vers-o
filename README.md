@@ -1,1 +1,1 @@
-# erência de Configuração e Controle de Versão
+# Gerência de Configuração e Controle de Versão
